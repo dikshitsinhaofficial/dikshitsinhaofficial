@@ -1,3 +1,19 @@
+# 💫 Hi 👋, I'm Dikshit Sinha
+
+**A passionate B.Tech Student || Aspiring Software Developer || Tech Enthusiast from India**
+
+Email Me 👉 ✉️ **[dikshitsinha186@gmail.com](mailto:dikshitsinha186@gmail.com)** for collaboration, projects, or opportunities. 😊
+
+* 🔭 **I’m currently working on:** Improving my DSA skills and building web development projects
+* 🌱 **I’m currently learning:** Data Structures & Algorithms, Full Stack Development
+* 👯 **I’m looking to collaborate on:** Web development projects, open-source contributions
+* 🤔 **I’m looking for help with:** Real-world project experience and advanced DSA problems
+* 💬 **Ask me about:** C++, DSA, Web Development, Git/GitHub
+* 📫 **How to reach me:** [dikshitsinha186@gmail.com](mailto:dikshitsinha186@gmail.com)
+* ⚡ **Fun fact:** I love solving coding problems and building cool projects 🚀
+
+## 🔗 I am actively looking for opportunities as a fresher 😊
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dikshitsinha321) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dikshitsinha321) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/dikshitsinha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dikshitsinha186@gmail.com) 
@@ -9,16 +25,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dikshitsinhaofficial&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshitsinhaofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dikshitsinhaofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dikshitsinhaofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=dikshitsinhaofficial&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
