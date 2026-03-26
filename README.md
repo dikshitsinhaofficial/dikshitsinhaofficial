@@ -25,6 +25,12 @@ Email Me 👉 ✉️ **[dikshitsinha186@gmail.com](mailto:dikshitsinha186@gmail.
 ![](https://nirzak-streak-stats.vercel.app/?user=dikshitsinhaofficial&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshitsinhaofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🔥 My GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=dikshitsinhaofficial&theme=tokyonight&hide_border=true)
+
+---
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
