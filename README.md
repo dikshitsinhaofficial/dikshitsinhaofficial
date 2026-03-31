@@ -1,159 +1,143 @@
 <!-- Animated Header -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dikshit%20Sinha%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:2C5364&height=220&section=header&text=Dikshit%20Sinha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dikshit Sinha</h1>
-<h3 align="center">🚀 ML Explorer | Tech Enthusiast | Web Developer | DSA Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 ML Explorer | 🧠 DSA Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=B.Tech+Student+in+Computer+Science;Machine+Learning+Explorer;Tech+Enthusiast;Full+Stack+Developer;Building+ML+Projects+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Full+Stack+Developer;Machine+Learning+Explorer;DSA+Problem+Solver;Building+Real+World+Projects+🚀"/>
 </p>
 
 ---
 
 # 🧠 About Me
 
-🎓 B.Tech in **COMPUTER SCIENCE**
+🎓 I'm a **B.Tech Computer Science Student** passionate about technology  
 
-🔬 Currently exploring
+🔍 Currently focusing on:
+- Machine Learning & AI
+- Data Structures & Algorithms
+- Full Stack Web Development
 
-• Machine Learning
-• Data Science
-• Backend Development
+💡 I love:
+- Building real-world projects  
+- Solving coding problems  
+- Exploring new technologies  
 
-💡 Interests
-
-• Artificial Intelligence
-• Machine Learning
-• Data Science
-• Open Source
-• Full Stack Development
-
-⚡ Fun Fact
-
-I enjoy building **projects that solve real-world problems**
+⚡ Fun Fact:  
+I turn ☕ into clean and efficient code  
 
 ---
 
 # 🌐 Connect With Me
-
 <p align="center">
 
-<a href="https://www.linkedin.com/in/utsav-raj-pratik-77120a34a/" target="_blank">
+<a href="https://www.linkedin.com/in/dikshitsinha321" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-
-
-<a href="https://leetcode.com/u/Utsavrajpratik/" target="_blank">
+<a href="https://leetcode.com/u/dikshitsinha18/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode" height="50"/>
 </a>
 
+<a href="https://github.com/dikshitsinhaofficial" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
 </p>
-
-
----
 
 # 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js"/>
 </p>
-
----
 
 ### ⚙️ Frameworks & Libraries
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi,django,tensorflow,nodejs,ts"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,django,tensorflow"/>
 </p>
 
----
-
-### 🌐 Web
-
+### 🌐 Web Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
 </p>
-
----
 
 ### 🗄 Databases
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### 🧰 Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-### 🧰 Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=github,git,gitlab"/>
-</p>
 
 # 🚀 Featured Projects
 
-## 🤖  CodeMate — LLM Powered Coding Assistant
-AI-powered coding assistant helping developers generate and understand code.
+## ☕ Cafe POS System — Full Stack Billing & Management System  
+🔗 [Github Repo](https://github.com/dikshitsinhaofficial/CAFE_POS-System)
 
-Tech: Python • AI/ML • Backend
+- Built a complete **Point of Sale (POS) system** for cafe operations  
+- Supports **order management, billing, and real-time updates**  
+- Designed backend APIs for smooth transaction handling  
+- Focused on **clean UI + efficient data handling**
 
----
-
-## 🧠NLP Contract Summarizer for Rental Agreements
-NLP system that summarizes rental contracts and extracts important information.
-
-Tech: Python • NLP • Machine Learning
+**Tech:** React • Node.js • Express • MongoDB  
 
 ---
 
-# 🏆 GitHub Achievements
+## 🤖 Machine Learning Projects — Real-World ML Applications  
+🔗 [Github Repo](https://github.com/dikshitsinhaofficial/Machine-Learning-Basics)
+
+- Developed multiple ML models for **prediction & data analysis**  
+- Worked on **data preprocessing, feature engineering, and model training**  
+- Applied ML concepts to solve **real-world problems**  
+- Explored **supervised learning & NLP-based tasks**
+
+**Tech:** Python • Scikit-learn • Pandas • NumPy  
+
+---
+
+## 🌐 Web Development Projects
+- Authentication systems  
+- Responsive UI designs  
+- Backend APIs  
+
+---
+
+# 🏆 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=UtsavRaj1111&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
 
----
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dikshitsinhaofficial&show_icons=true&theme=tokyonight"/>
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=UtsavRaj1111&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavRaj1111&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dikshitsinhaofficial&layout=compact&theme=tokyonight"/>
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtsavRaj1111&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshitsinhaofficial&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtsavRaj1111&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshitsinhaofficial&theme=tokyo-night"/>
 </p>
 
 ---
-
-# 🟡 Pac-Man Contribution Game
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/UtsavRaj1111/UtsavRaj1111/output/pacman-contribution-graph.svg"/>
-</p>
-
 
 # 💻 Coding Animation
 
@@ -163,7 +147,7 @@ Tech: Python • NLP • Machine Learning
 
 ---
 
-# 🧠 Random Developer Quote
+# 🧠 Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -174,9 +158,9 @@ Tech: Python • NLP • Machine Learning
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=UtsavRaj1111&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=dikshitsinhaofficial&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
-⭐ From **Utsav Raj Pratik**
+⭐ From **Dikshit Sinha**
